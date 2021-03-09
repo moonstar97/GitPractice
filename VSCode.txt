@@ -1,1 +1,1 @@
-added new file 2
+conflict added new file 2
